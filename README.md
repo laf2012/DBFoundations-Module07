@@ -4,7 +4,7 @@ February 28, 2023
 
 IT Foundations of Database Management
 
-[Github Website Link]([https://github.com/laf2012/DBFoundations-Module07](https://laf2012.github.io/DBFoundations-Module07/))
+[GitHub Website Link]([https://github.com/laf2012/DBFoundations-Module07](https://laf2012.github.io/DBFoundations-Module07/))
 
 Assignment 07
 
